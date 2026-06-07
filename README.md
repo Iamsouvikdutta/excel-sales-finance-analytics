@@ -85,7 +85,7 @@ The objective of this project was to develop an interactive financial analytics 
 
 ### Profitability Analysis
 
-- Gross Margin % declined despite strong revenue growth, suggesting increasing operational costs or pricing pressures.
+- Gross Margin % declined despite revenue growth, suggesting increasing operational costs or pricing pressures.
 - Higher sales volumes alone did not translate into proportional profitability improvements.
 
 ### Financial Performance Trends
@@ -126,11 +126,10 @@ This dashboard enables stakeholders to:
 
 ## Repository Structure
 
-```
+```text
 excel-sales-finance-analytics/
 │
 ├── README.md
-├── Excel_Dashboard.xlsx
 ├── screenshots/
 │   ├── market_pnl_report.png
 │   ├── fiscal_year_pnl.png
@@ -142,6 +141,16 @@ excel-sales-finance-analytics/
 └── assets/
     └── dataset_description.md
 ```
+
+---
+
+## Dashboard Workbook Access
+
+Due to GitHub file size limitations, the complete Excel dashboard workbook is not included in this repository.
+
+The workbook can be shared upon request for learning, portfolio review, or discussion purposes.
+
+Feel free to connect with me via LinkedIn to request access or discuss the analytical approach used in this project.
 
 ---
 
@@ -171,10 +180,10 @@ Through this project, I strengthened my ability to:
 
 Business Analyst | Growth Strategy | SQL | Power BI | Excel
 
-Sales & Analytics professional with 8+ years of experience across FMCG, E-commerce, and Quick Commerce, specializing in leveraging data to drive business growth, operational efficiency, and strategic decision-making.
+Sales and Analytics professional with 8+ years of experience across FMCG, E-commerce, and Quick Commerce, specializing in leveraging data to drive business growth, operational efficiency, and strategic decision-making.
 
 - GitHub: https://github.com/Iamsouvikdutta
-- LinkedIn: *(Add your LinkedIn profile URL here)*
+- LinkedIn: https://www.linkedin.com/in/iamsouvikdutta/
 
 ---
 
